@@ -7,6 +7,17 @@
 
 **I know this is precarious, I will improve as soon as possible**
 
+---
+### Bio em PT-BR
+
+- 👋 Olá, sou @Cristian-Vieira
+- 👀 Estou interessado em JS, TS, Node.js, React, Vue, Py, HTML-CSS para desenvolvimento Web
+- 🌱 Atualmente estou aprendendo JS-HTML-CSS, TS e Node.js
+- 📫 Como chegar até mim [Instagram](https://www.instagram.com/cristian.v.1/) e meu [E-mail](cristian.evangelista@fatec.sp.gov.br)
+
+**Iniciando carreira em programação WEB Front-end, sempre buscando aprimorar meus conhecimentos. Atualmente estou melhorando minhas habilidades em JS**
+
+**Eu sei que isso está precário, vou melhorar o mais rápido possível**
 
 <!---
 Cristian-Vieira/Cristian-Vieira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
