@@ -1,12 +1,12 @@
 # Welcome to my GitHub Profile! 👋
 
-## About Me
+### About Me
 I'm Cristian Vieira, I from Brazil, starting a career in WEB Front-end programming, always looking to improve my knowledge. I'm currently studying Systems Analysis and Development at FATEC Ourinhos (University of Technology of Ourinhos-SP) and improving my JS skills. I have an interest in JavaScript (JS), TypeScript (TS), Node.js, React, Vue, Python (Py), and HTML/CSS for web development.
 
-## What I'm Currently Doing
+### What I'm Currently Doing
 I'm currently dedicated to expanding my skill set in JavaScript. I believe that continuous learning is essential in the fast-paced world of web development, and I'm always looking for opportunities to enhance my knowledge and stay up to date with the latest technologies.
 
-## How to Reach Me
+### How to Reach Me
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cristian.v.1/)
 [![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:cristian.evangelista@fatec.sp.gov.br)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mackone128@gmail.com)
