@@ -1,4 +1,4 @@
-# Welcome to my GitHub Profile! 👋
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ### About Me
 I'm Cristian Vieira, I from Brazil, starting a career in WEB Front-end programming, always looking to improve my knowledge. I'm currently studying Systems Analysis and Development at FATEC Ourinhos (University of Technology of Ourinhos-SP) and improving my JS skills. I have an interest in JavaScript (JS), TypeScript (TS), Node.js, React, Vue, Python (Py), and HTML/CSS for web development.
@@ -10,9 +10,6 @@ I'm currently dedicated to expanding my skill set in JavaScript. I believe that 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cristian.v.1/)
 [![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:cristian.evangelista@fatec.sp.gov.br)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mackone128@gmail.com)
-
-#### Feel free to reach out to me if you have any questions or collaboration ideas.
-#### Let's build amazing things on the web! 🚀
 
 ##
 
@@ -32,6 +29,9 @@ I'm currently dedicated to expanding my skill set in JavaScript. I believe that 
     <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   </div>
+  
+#### Feel free to reach out to me if you have any questions or collaboration ideas.
+#### Let's build amazing things on the web! 🚀
 <!---
 Cristian-Vieira/Cristian-Vieira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
