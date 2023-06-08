@@ -11,9 +11,15 @@ I'm currently dedicated to expanding my skill set in JavaScript. I believe that 
 - Email: cristian.evangelista@fatec.sp.gov.br
 
 Feel free to reach out to me if you have any questions or collaboration ideas.
-
 Let's build amazing things on the web! 🚀
 
+##
+
+<div align="center">
+  <a href="https://github.com/Cristian-Vieira">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Cristian-Vieira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian-Vieira&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 
 <!---
