@@ -7,8 +7,8 @@ I'm Cristian Vieira, I from Brazil, starting a career in WEB Front-end programmi
 I'm currently dedicated to expanding my skill set in JavaScript. I believe that continuous learning is essential in the fast-paced world of web development, and I'm always looking for opportunities to enhance my knowledge and stay up to date with the latest technologies.
 
 ## How to Reach Me
-- Instagram: [@cristian.v.1](https://www.instagram.com/cristian.v.1/)
-- Email: cristian.evangelista@fatec.sp.gov.br
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cristian.v.1/)
+[![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:cristian.evangelista@fatec.sp.gov.br)
 
 Feel free to reach out to me if you have any questions or collaboration ideas.
 
