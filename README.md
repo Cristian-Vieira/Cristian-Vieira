@@ -9,7 +9,7 @@ I'm currently dedicated to expanding my skill set in JavaScript. I believe that 
 ## How to Reach Me
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cristian.v.1/)
 [![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:cristian.evangelista@fatec.sp.gov.br)
-
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mackone128@gmail.com)
 Feel free to reach out to me if you have any questions or collaboration ideas.
 
 Let's build amazing things on the web! 🚀
