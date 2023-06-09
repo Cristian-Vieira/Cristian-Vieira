@@ -15,7 +15,8 @@ I'm currently dedicated to expanding my skill set in JavaScript. I believe that 
   
  ##
   
-     ### Technologies
+  ### Technologies
+  
   <div style="display: inline_block"><br>
     <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
