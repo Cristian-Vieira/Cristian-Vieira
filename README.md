@@ -13,10 +13,11 @@ I'm currently dedicated to expanding my skill set in JavaScript. I believe that 
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian-Vieira&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-##
+ ##
   
-   ### Technologies
+
   <div style="display: inline_block"><br>
+     ### Technologies
     <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -25,9 +26,10 @@ I'm currently dedicated to expanding my skill set in JavaScript. I believe that 
     <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   </div>
- ##
   
-  ### How to Reach Me
+##
+  
+### How to Reach Me
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cristian.v.1/)
 [![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:cristian.evangelista@fatec.sp.gov.br)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mackone128@gmail.com)
