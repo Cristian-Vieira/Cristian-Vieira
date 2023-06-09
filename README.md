@@ -35,7 +35,4 @@ I'm currently dedicated to expanding my skill set in JavaScript. I believe that 
   
 #### Feel free to reach out to me if you have any questions or collaboration ideas.
 #### Let's build amazing things on the web! 🚀
-<!---
-Cristian-Vieira/Cristian-Vieira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
