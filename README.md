@@ -35,6 +35,6 @@ I'm currently dedicated to expanding my skill set in JavaScript. I believe that 
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mackone128@gmail.com)
 ##
   
-#### Feel free to reach out to me if you have any questions or collaboration ideas.
+- #### Feel free to reach out to me if you have any questions or collaboration ideas 🤝🏾
 #### 🚀 Let's build amazing things on the web! 🚀
 
