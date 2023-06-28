@@ -9,8 +9,8 @@ I'm currently dedicated to expanding my skill set in JavaScript. I believe that 
 
 <div align="center">
   <a href="https://github.com/Cristian-Vieira">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Cristian-Vieira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian-Vieira&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Cristian-Vieira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian-Vieira&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
  ##
