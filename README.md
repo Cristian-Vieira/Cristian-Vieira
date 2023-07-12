@@ -1,7 +1,7 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ### About Me
-I'm Cristian Vieira, I from Brazil, starting a career in WEB Front-end programming, always looking to improve my knowledge. I'm currently studying Systems Analysis and Development at FATEC Ourinhos (University of Technology of Ourinhos-SP). I have an interest in JavaScript (JS), TypeScript (TS), Node.js, Express, React, Vue, Python (Py), and HTML/CSS for web development.
+I'm Cristian Vieira, I from Brazil, starting a career in WEB Front-end programming, always looking to improve my knowledge. I'm currently studying Systems Analysis and Development at FATEC Ourinhos (University of Technology of Ourinhos-SP). I have an interest in JavaScript (JS), TypeScript (TS), Node.js, React, Express, Vue, Python (Py), and HTML/CSS for web development.
 ##
   ### What I'm Currently Doing
 I'm currently dedicated to expanding my skill set in JavaScript. I believe that continuous learning is essential in the fast-paced world of web development, and I'm always looking for opportunities to enhance my knowledge and stay up to date with the latest technologies.
@@ -25,6 +25,7 @@ I'm currently dedicated to expanding my skill set in JavaScript. I believe that 
     <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
     <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CPP.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+    <!--- <img align="center" alt="Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">-->
   </div>
   
 ##
