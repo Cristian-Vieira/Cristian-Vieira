@@ -37,4 +37,4 @@ I'm currently dedicated to expanding my skill set in JavaScript. I believe that 
 ##
   
 - #### Feel free to reach out to me if you have any questions or collaboration ideas. 🤜🏽 🤛🏽
-- #### 🚀 Let's build amazing things on the web! 🚀
+- #### Let's build amazing things on the web! 🚀
