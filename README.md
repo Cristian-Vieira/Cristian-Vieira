@@ -10,8 +10,8 @@ I'm currently dedicated to expanding my skill set in JavaScript. I believe that 
 
 <div align="center">
   <a href="https://github.com/Cristian-Vieira">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Cristian-Vieira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian-Vieira&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Cristian-Vieira&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian-Vieira&layout=compact&langs_count=7&theme=algolia"/>
 </div>
   
  ##
@@ -33,6 +33,7 @@ I'm currently dedicated to expanding my skill set in JavaScript. I believe that 
   
 ### How to Reach Me
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cristian.v.1/)
+[![Linkedin](https://img.shields.io/badge/linkedin-0078D4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristianvieira/)
 [![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:cristian.evangelista@fatec.sp.gov.br)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mackone128@gmail.com)
 ##
