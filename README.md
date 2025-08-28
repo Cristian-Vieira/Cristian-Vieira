@@ -1,7 +1,7 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ### About Me
-I'm Cristian Vieira, I from Brazil, starting a career as a WEB Front-end programmer, always looking to improve my knowledge. I'm currently studying Information Technology Management at FATEC Assis (University of Technology of Assis-SP). I am passionate about technology and am always looking to update myself on the latest technologies.
+I from Brazil, starting a career as a WEB Front-end programmer, always looking to improve my knowledge. I'm currently studying Information Technology Management at FATEC Assis (University of Technology of Assis-SP). I am passionate about technology and am always looking to update myself on the latest technologies.
 ##
 
   ### What I'm Currently Doing
